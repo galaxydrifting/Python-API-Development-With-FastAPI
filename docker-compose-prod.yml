@@ -1,7 +1,7 @@
 version: "3"
 services:
   api:
-    build: .
+    image: drift2galaxy/fastapi
     depends_on:
       - postgres
     ports:
