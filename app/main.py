@@ -31,4 +31,4 @@ app.include_router(vote.router)
 # for reference
 @app.get("/")
 def root():
-    return {"message": "hello world"}
+    return {"message": "Hello World"}
