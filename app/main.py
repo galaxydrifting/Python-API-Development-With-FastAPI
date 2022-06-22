@@ -31,4 +31,4 @@ app.include_router(vote.router)
 # for reference
 @app.get("/")
 def root():
-    return {"message": "test_get_all_posts will failed"}
+    return {"message": "Hello World!"}
