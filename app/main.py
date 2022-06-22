@@ -31,4 +31,4 @@ app.include_router(vote.router)
 # for reference
 @app.get("/")
 def root():
-    return {"message": "Hello World! pushing out to ubuntu"}
+    return {"message": "FastApi Project finished"}
