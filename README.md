@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://fastapi-example-bruce.herokuapp.com/docs">
-    <img src="images/FastAPI-Docs.png" alt="Docs" width="450" height="200">
+    <img src="images/FastAPI-Docs.png" alt="Docs" width="1000" height="500">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
